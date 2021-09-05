@@ -8,7 +8,7 @@ sudo apt-get install tkgate   <br />
 
 CPU instructions for testing are in instruction_test_file.mem file <br />
 <br />
-Documentation fro TKGate: <br />
+Documentation for TKGate: <br />
 https://bnoordhuis.github.io/tkgate/
 
 
