@@ -1,6 +1,7 @@
 # CPU-Design-Simulation
 CPU design and simultion using TKGate
 
+Instruction Set Architecture Design is described in ISA_Design.pdf <br /><br />
 TKGate is required to open design_file.v <br />
 sudo apt-get install tkgate   <br />
 
