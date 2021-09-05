@@ -1,5 +1,6 @@
 # CPU-Design-Simulation
-CPU design and simultion using TKGate
+CPU design and simultion using TKGate <br />
+This project was made as a part of Computer Organization and Architecture Course<br /><br />
 
 Instruction Set Architecture Design is described in ISA_Design.pdf <br /><br />
 TKGate is required to open design_file.v <br />
